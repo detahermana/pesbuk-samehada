@@ -4,7 +4,6 @@ $db_host = "localhost";
 $db_user = "devopscilsy";
 $db_pass = "1234567890";
 $db_name = "dbsosmed";
-$db_coba = "coba-coba";
 
 try {    
     //create PDO connection 
