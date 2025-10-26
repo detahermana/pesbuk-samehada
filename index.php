@@ -17,6 +17,7 @@
                         <h1>Selamat datang di Friendster</h1>
                         <h1>Percobaan</h1>
                         <p>Bergabunglah bersama jutaan orang lainnya...</p>
+                        <p>Temukan teman lama dan buat kenalan baru di Friendster!</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
